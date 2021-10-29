@@ -1,5 +1,5 @@
 # UML-SGBD-SQL
-UML diagram, PostGreSQL, IBM DB2 on cloud, SQL requests
+UML diagram/PostGreSQL/IBM DB2 on cloud/SQL requests
 
 Créer et utiliser une base de données immobilière avec SQL 
 -Dictionnaire des données 
